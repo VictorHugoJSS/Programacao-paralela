@@ -35,7 +35,7 @@ Qualquer pipeline que processe Base64 em volume sai ganhando: servidores de uplo
 O projeto roda no Google Colab com runtime GPU (T4).
 
 1. Abra o notebook no Colab
-2. Vá em **Runtime → Change runtime type → T4 GPU
+2. Vá em Runtime → Change runtime type → T4 GPU
 3. Execute as células em ordem
 
 **Dependências:** Python 3.12, Numba, NumPy, Matplotlib
